@@ -5,11 +5,11 @@
 
 - I am the founder of [KodeRank](https://koderank.com)
 
-- My expertises on: **Statistics, Python, R, SQL, Excel, PowerBI, Tableau**
-
 - I am the owner of [www.sustho.com](https://sustho.com)
 
 - Check my portfolio on [www.talhabu.com](https://talhabu.com)
+
+- My expertises on: **Statistics, Python, R, SQL, Excel, PowerBI, Tableau**
 
 - Skype me: [solar.sunrise](solar.sunrise)
 
