@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/dtalhabu" target="blank"><img src="https://img.shields.io/twitter/follow/dtalhabu?logo=twitter&style=for-the-badge" alt="dtalhabu" /></a> </p>
 
-- I am the founder of [KodeRank](https://koderank.com)
+- I am the founder of [GrowthFul](https://talhabu.com)
 
 - I am the owner of [www.sustho.com](https://sustho.com)
 
 - Check my portfolio on [www.talhabu.com](https://talhabu.com)
 
-- My expertises on: **Statistics, Python, R, SQL, Excel, PowerBI, Tableau**
+- My expertise is in: **SEO, Content Marketing, WordPress Development, Email Marketing, AI Workflow, Data Analytics**
 
 - Skype me: [solar.sunrise](solar.sunrise)
 
